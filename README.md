@@ -1,7 +1,7 @@
 # AgendaSpringBoot
 API REST para um CRUD (Create, Read, Update e Delete - em português Criar, Ler, Atualizar e Remover) utilizando Spring Boot 2, Hibernate, JPA e MySQL.
 
-##API de Contatos que irá expor cinco métodos HTTP (URIs RESTFul) definidos abaixo:
+## API de Contatos que irá expor cinco métodos HTTP (URIs RESTFul) definidos abaixo:
 
 Listar todos os contatos - @GetMapping(“/contacts)
 Obter um contato específico pelo ID - @GetMapping(“/contacts/{id}”)
